@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Bangers&display=swap");
+
+/* Global Styles */
+body {
+	background-image: url("matix.jpg");
+	opacity: 0.9;
+}
+
+.writing {
+	font-family: "Bangers", cursive;
+	font-size: 5rem;
+	color:#f50057;
+}
+
+

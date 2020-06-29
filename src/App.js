@@ -23,6 +23,10 @@ const App = () => {
 			<Fragment>
 				<SearchBar />
 				<div className="container">
+					<h3 className="writing">
+						IT-Logger<i className="medium material-icons">add</i>
+						<i className="medium material-icons">cloud</i>
+					</h3>
 					<AddBtn />
 					<AddLogModal />
 					<EditLogModal />
